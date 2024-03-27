@@ -5,7 +5,6 @@ import pandas as pd
 from datetime import datetime, timedelta
 import time
 import seaborn as sns
-# 设置seaborn样式
 sns.set(style="whitegrid")
 
 #fetch daily ohcl data
