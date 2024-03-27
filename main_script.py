@@ -211,7 +211,7 @@ if __name__ == "__main__":
     for i in range(3):
         try:
             # Setting the date range
-            start_date = datetime(2023, 4, 1)
+            start_date = datetime(2023, 5, 1)
             end_date = datetime.now()
             symbol = 'ETHUSDT'
             coin_id = 'ethereum'
