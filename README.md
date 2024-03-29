@@ -19,6 +19,7 @@ How to Use:
 Set Up Your Environment:
 Ensure Python 3.x and all dependencies listed in requirements.txt are installed.
 Place the main_script.py in your project directory.
+Please note: In some regions, such as the USA, access to the Binance API is restricted. Therefore, you might need to use a proxy to switch to other regions, like Singapore or Japan and etc, for access.
 
 Configuration:
 
